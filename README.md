@@ -1,16 +1,26 @@
-# copilot-workshop-pacman
+# OpenGL Game
 
 ## Installationsanleitung
 
-Was muss installiert sein?
-Wie installiere ich es?
+1. Erstellen Sie eine virtuelle Umgebung:
+    ```powershell
+    python -m venv venv
+    .\venv\Scripts\Activate.ps1
+    ```
+
+2. Installieren Sie die Abhängigkeiten:
+    ```powershell
+    pip install pygame PyOpenGL
+    ```
 
 ## Starten
 
-Wie kann man euer Spiel starten?
+1. Führen Sie das Spiel aus:
+    ```powershell
+    python .\src\main.py
+    ```
 
 ## Spielanleitung
 
-Wie wird euer Spiel gespielt?
-Was sind die Regeln?
-Was ist das Ziel?
+- Das Spiel wird im OpenGL-Fenster angezeigt.
+- Weitere Anweisungen folgen.
