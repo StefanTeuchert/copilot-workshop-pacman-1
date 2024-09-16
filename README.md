@@ -1,4 +1,4 @@
-# copilot-workshop-xyz
+# copilot-workshop-pacman
 
 ## Installationsanleitung
 
